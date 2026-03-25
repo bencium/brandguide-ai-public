@@ -2,7 +2,7 @@
 
 The official free Claude Code plugin for [brandguideAI](https://ai.brandguide.hu) -- expert brand methodology for software products.
 
-Build professional brand systems grounded in 25+ years of methodology by Serfőző Peter (500+ brands, 3 bestselling books).
+Build professional brand systems grounded in 25+ years of methodology by **Serfőző Peter** (500+ brands, 3 bestselling books) and **Bence Csernak**, architect and AI engineer behind the platform. Together they built and founded brandguideAI.
 
 ## Installation
 
@@ -51,21 +51,21 @@ Works immediately after install. Ask brand questions and get answers from the em
 
 Every answer includes a link to sign up for the full experience.
 
-### Full Mode (free signup, 8 API calls/month)
+### Full Mode
 
-Sign up free at [ai.brandguide.hu/en/agents](https://ai.brandguide.hu/en/agents) to unlock the complete 1000+ page knowledge base with source citations:
+To unlock the complete 1000+ page knowledge base with source citations:
 
-```bash
-export BRANDGUIDE_API_KEY=pk_your_key_here
-```
+1. **Register free** at [ai.brandguide.hu/en/agents](https://ai.brandguide.hu/en/agents)
+2. **Download and install** the full **brandguide-ai** skill (instructions provided after signup)
+3. Get **8 free API calls/month** to the complete knowledge base
 
-**What you unlock:**
-- 1000+ pages of source-backed brand methodology with citations
+**Want more?** Subscribe for the price of a lunch and get **300 API calls/month** -- source-backed answers from 1000+ pages of professional brand methodology.
+
+**What you unlock with the full skill:**
+- 1000+ pages of source-backed brand methodology with page-level citations
 - Image analysis -- upload logos and brand assets for expert review
 - Unlimited depth on any brand topic
 - Works everywhere: Claude Code, Claude.ai, Cursor, Windsurf, and 40+ tools
-
-> Looking for the full paid skill with built-in API key? That's **brandguide-ai** (without `-free`), available to subscribers at [ai.brandguide.hu/en/agents](https://ai.brandguide.hu/en/agents).
 
 ---
 
@@ -109,21 +109,21 @@ brandguide-ai-free/
 
 ## Free vs Paid
 
-| Feature | brandguide-ai-free (this repo) | brandguide-ai (paid) |
+| Feature | brandguide-ai-free (this repo) | brandguide-ai (subscribers) |
 |---------|-------------------------------|---------------------|
-| Install | Public, anyone | Subscribers only |
+| Install | Public, anyone | Register at ai.brandguide.hu |
 | Knowledge | Embedded summary | Full 1000+ page RAG |
 | Source citations | No | Yes, with page numbers |
-| Image analysis | With API key only | Built-in |
-| API calls | 8/month (free signup) | Plan-based quota |
-| Price | Free | Subscription at ai.brandguide.hu |
+| Image analysis | No | Yes |
+| API calls | None (offline only) | 8/month free, 300/month paid |
+| Price | Free | Free signup / subscription |
 
 ---
 
 ## Links
 
 - [brandguideAI Web App](https://ai.brandguide.hu/en) -- full chat experience with extended thinking, image generation, and web search
-- [Sign Up Free / API Access](https://ai.brandguide.hu/en/agents) -- get your API key and explore all capabilities
+- [Sign Up Free / Get the Full Skill](https://ai.brandguide.hu/en/agents) -- register, install the full skill, and explore all capabilities
 - [Report Issues](https://github.com/bencium/brandguide-ai-public/issues)
 
 ---
