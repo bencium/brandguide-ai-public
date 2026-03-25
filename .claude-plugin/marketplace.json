@@ -1,0 +1,15 @@
+{
+  "name": "brandguide-ai-public",
+  "owner": {
+    "name": "brandguideAI",
+    "url": "https://ai.brandguide.hu"
+  },
+  "plugins": [
+    {
+      "name": "brandguide-ai-free",
+      "source": "./brandguide-ai-free",
+      "description": "Expert brand methodology assistant powered by brandguideAI. Build professional brand systems for software products -- color palettes, typography, voice guidelines, and visual identity. Based on 25+ years of brand methodology by Serfőző Peter (500+ brands, 3 bestselling books). Free mode with embedded knowledge, or connect your API key for the full 1000+ page source-backed knowledge base.",
+      "version": "1.0.0"
+    }
+  ]
+}

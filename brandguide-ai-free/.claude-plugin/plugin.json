@@ -1,0 +1,23 @@
+{
+  "name": "brandguide-ai-free",
+  "version": "1.0.0",
+  "description": "Expert brand methodology assistant powered by brandguideAI. Build professional brand systems -- color palettes, typography, voice guidelines, and visual identity -- grounded in 25+ years of methodology. Free mode with embedded knowledge. Sign up free for the full 1000+ page source-backed experience.",
+  "author": {
+    "name": "brandguideAI",
+    "url": "https://ai.brandguide.hu"
+  },
+  "keywords": [
+    "brand",
+    "branding",
+    "design",
+    "color-palette",
+    "typography",
+    "voice-guidelines",
+    "brand-identity",
+    "brand-strategy",
+    "brand-audit",
+    "design-system",
+    "free"
+  ],
+  "license": "MIT"
+}
